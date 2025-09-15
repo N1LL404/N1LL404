@@ -84,9 +84,9 @@ console.log("Always coding, always improving! 💪");
 
 ## 🎯 Current Focus
 
-- 🐍 Mastering Python for backend development
-- 🌐 Building responsive web applications with HTML/CSS/JS
-- ⚡ Exploring modern JavaScript frameworks
+- 🐍 Mastering Python
+- 🌐 Building web applications with HTML/CSS/JS
+- ⚡ Exploring modern JavaScript 
 - 🔧 Creating efficient PHP solutions
 - 📚 Contributing to open source projects
 
